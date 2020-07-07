@@ -12,8 +12,8 @@ A simple pomodoro timer created with python.
 A side project focused on design pattern application and learning how to make GUI with python.
 Pymodoro-timer consists in a simple pomodoro timer (can't you tell?).
 
-## UML-diagram
-![Screenshot](docs/class_diagram.pdf)
+## UML diagram
+![Diagram](docs/class_diagram.png)
 	
 ## Technologies
 Project is created with:
