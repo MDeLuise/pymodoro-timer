@@ -9,11 +9,11 @@ A simple pomodoro timer created with python.
 * [Screenshots](#screenshots)
 
 ## General info
-A side project focused on design pattern application and learning how to make GUI with python.
-Pymodoro-timer consists in a simple pomodoro timer (can't you tell?).
+A side project focused on design pattern application and learning how to make GUI with python.  
+Pymodoro-timer consists in a simple pomodoro timer (you don't say?).
 
 ## UML diagram
-![Diagram](docs/class_diagram.png)
+<img src="docs/class_diagram.png" width="500">
 	
 ## Technologies
 Project is created with:
@@ -40,5 +40,4 @@ $ python3 main.py --cli
 If you want to change the settings for the timer, do it via GUI or modify `.settings.json` file.
 
 ## Screenshots
-![Screenshot](docs/images/screenshot_1.png)
-![Screenshot](docs/images/screenshot_2.png)
+<img src="docs/images/screenshot_1.png" width="400"><img src="docs/images/screenshot_2.png" width="400">
